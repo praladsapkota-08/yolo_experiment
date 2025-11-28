@@ -35,10 +35,10 @@ runs/*
 !notebooks/*.ipynb
 
 # Ignore everything in outputs
-outputs/*
+# outputs/*
 
 # But allow folders inside outputs
-!outputs/**/
+# !outputs/**/
 
 # And allow selected files inside those folders
 !outputs/*/results.png
