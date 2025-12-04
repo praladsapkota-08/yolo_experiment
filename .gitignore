@@ -38,7 +38,7 @@ runs/*
 # outputs/*
 
 # But allow folders inside outputs
-# !outputs/**/
+!outputs/**/
 
 # And allow selected files inside those folders
 !outputs/*/results.png

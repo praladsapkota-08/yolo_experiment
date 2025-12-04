@@ -1,3 +1,25 @@
+# My YOLO Learning Journey 🚀
+
+This repo documents my step-by-step exercises with YOLO, following a structured syllabus.
+
+## Exercise 1: Inference Only
+- Ran pretrained YOLOv5s on sample images
+- Observed bounding boxes and confidence scores
+- Outputs saved in `outputs/ex1/`
+
+## Exercise 2: Training & Comparison
+- Trained YOLOv5s and YOLOv5m for a few epochs
+- Collected outputs (`results.png`, `confusion_matrix.png`)
+- Ran inference (detections were weak due to low epochs)
+- Organized runs into `outputs/run1/` and `outputs/run2/`
+- Documented comparison in README
+
+---
+
+# Ultralytics YOLOv5 🚀
+*(default README content continues below)*
+
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/events/yolovision?utm_source=github&utm_medium=org&utm_campaign=yv25_event" target="_blank">
