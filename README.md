@@ -3,11 +3,13 @@
 This repo documents my step-by-step exercises with YOLO, following a structured syllabus.
 
 ## Exercise 1: Inference Only
+
 - Ran pretrained YOLOv5s on sample images
 - Observed bounding boxes and confidence scores
 - Outputs saved in `outputs/ex1/`
 
 ## Exercise 2: Training & Comparison
+
 - Trained YOLOv5s and YOLOv5m for a few epochs
 - Collected outputs (`results.png`, `confusion_matrix.png`)
 - Ran inference (detections were weak due to low epochs)
@@ -17,8 +19,8 @@ This repo documents my step-by-step exercises with YOLO, following a structured 
 ---
 
 # Ultralytics YOLOv5 🚀
-*(default README content continues below)*
 
+_(default README content continues below)_
 
 <div align="center">
   <p>
